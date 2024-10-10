@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+
+
+accounts:
+  message: "Welcome to OneBank accounts related QA APIs "
+  contactDetails:
+    name: "David Salt - QA Lead"
+    email: "david@onebank.com"
+  onCallSupport:
+    - (333) 555-0202
+    - (333) 666-0303

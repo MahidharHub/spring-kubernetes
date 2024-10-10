@@ -1,0 +1,24 @@
+dependencies:
+- name: onebank-common
+  repository: file://../../onebank-common
+  version: 0.1.0
+- name: configserver
+  repository: file://../../onebank-services/configserver
+  version: 0.1.0
+- name: eurekaserver
+  repository: file://../../onebank-services/eurekaserver
+  version: 0.1.0
+- name: accounts
+  repository: file://../../onebank-services/accounts
+  version: 0.1.0
+- name: cards
+  repository: file://../../onebank-services/cards
+  version: 0.1.0
+- name: loans
+  repository: file://../../onebank-services/loans
+  version: 0.1.0
+- name: gatewayserver
+  repository: file://../../onebank-services/gatewayserver
+  version: 0.1.0
+digest: sha256:ca468878402cbb5984b566db06cfd5cce637d01fa53a45acff86a4bb08d289f6
+generated: "2024-10-07T14:41:07.4421813+02:00"

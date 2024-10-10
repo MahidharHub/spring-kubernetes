@@ -1,0 +1,6 @@
+dependencies:
+- name: onebank-common
+  repository: file://../../onebank-common
+  version: 0.1.0
+digest: sha256:b845f7016cf4d7859e62ca022fda41fb7d87ef3dafac17a171de803f0f56a191
+generated: "2024-10-07T14:36:12.2425497+02:00"

@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+
+
+accounts:
+  message: "Welcome to OneBank accounts related production APIs "
+  contactDetails:
+    name: "Ariana Keller - Product Owner"
+    email: "{cipher}cd1001545c4ab563ea9cb232e910edfe55621f03238bc3225c966dac714c70bf2f81cb5cbe72fecf289fa1fc7a0378e8"
+  onCallSupport:
+    - (222) 444-0404
+    - (222) 444-0101

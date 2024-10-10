@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+loans:
+  message: "Welcome to OneBank loans related prod APIs "
+  contactDetails:
+    name: "Ariana Keller - Product Owner"
+    email: "ariana@onebank.com"
+  onCallSupport:
+    - (222) 444-0404
+    - (222) 444-0101

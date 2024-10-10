@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to OneBank loans related local APIs "
+  contactDetails:
+    name: "John Diesel - Developer"
+    email: "john@onebank.com"
+  onCallSupport:
+    - (111) 444-1234
+    - (111) 444-1345
